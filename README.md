@@ -6,7 +6,7 @@ ECEN 403 - Section 902
 
 Sponsor: Christi Madsen
 
-Members: Tran Nguyen, Jacob Royal, and Trevor Carr
+Members: Jacob Royal, Tran Nguyen, and Trevor Carr
 
 ---------------------------------------------------------------------------------
 
