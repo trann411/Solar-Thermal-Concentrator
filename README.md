@@ -1,6 +1,7 @@
 # Solar-Thermal-Concentrator
 
 Team 72 >
+
 ECEN 403 - Section 902
 Sponsor: Christi Madsen
 Members: Tran Nguyen, Jacob Royal, and Trevor Carr
