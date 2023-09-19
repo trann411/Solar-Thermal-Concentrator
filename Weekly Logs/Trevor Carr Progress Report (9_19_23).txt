@@ -1,0 +1,12 @@
+Trevor Carr Progress Report (9/19/23):
+
+Past week:
+Initial azimuth and inclination testing.
+Testing of new Fresnel lens to estimate focal length.
+Finished physical measurements and engineering drawings for mechanical set up.
+Helped determined sensors needed in parts order.
+
+This weeks plan:
+Send in order for needed sensors/electronics.
+Basic MatLAB inteface famililarization and set up code.
+Start allocating materials for focal device test apperatus. 
