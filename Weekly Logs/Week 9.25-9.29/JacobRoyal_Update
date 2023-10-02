@@ -1,0 +1,5 @@
+1. Created Entire Interface-Control Document (ICD)
+2. Began Interfacing with ESP32-S3 Reverse Feather TFT Microcontroller
+    a. Installed requiste software suites (Arduino IDE, VS Code)
+    b. Ran "Blink Test" Script (i.e. "Hello, World" but with an LED on unit)
+    c. Began creating pin-assignment and data-polling code.
