@@ -1,0 +1,9 @@
+Past Week: 
+Started basic Structure of GUI in MATLAB
+Most work done on FSR documentation
+Researched Advanced Designs for Focal Device (Beam Expansion, Galien/Kepler Configurations) 
+
+Plans this week:
+Structure code for backend code for MATLAB
+Plan Test case/data (simulated data for validation)
+Mechanical Shutter Construction
