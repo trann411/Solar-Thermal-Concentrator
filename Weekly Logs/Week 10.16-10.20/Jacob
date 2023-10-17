@@ -1,0 +1,16 @@
+Past Week:
+- Wrote Thermocouple Interface & Calibration Code
+- - Tested Code & Validated Functionality
+
+- Wrote Magneteometer Interface & Calibration Code
+- - Tested Code & Validated Functionality
+
+- Wrote Azimuth Motor Control Feedback Code
+- - Tested Code & Operation with Motor; Validated Functionality
+
+- Wrote Code to support Above Functions
+
+Next Week:
+- Presentation Tomorrow, 10/18
+- Calibrate Azimuth Feedback Loop
+- Begin Creating Accelerometer Interface
