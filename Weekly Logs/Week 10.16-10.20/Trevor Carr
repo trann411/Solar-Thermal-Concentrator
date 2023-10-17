@@ -1,0 +1,12 @@
+10/17/2023-Trevor Carr Update
+
+This past week:
+Coded 'Main' script in MatLab that calls functions and interacts between Microcontroller and Interface.
+Main is able to pull data from an external source and display basic Solar positioning data within the MatLab M-file. 
+Interface now has basic graphs for solar positioning data and has linked components (switches and indicators)
+
+This next week:
+Physically start constructing shudder systems and integrate actuators. 
+Hard code Astronomical Algorithms into function for local data calculations; will use other excel file for validation and error calculations. 
+Connect interface and back end to actually communicate; Interface should control and initialize back end.
+Research advanced focal device designs for spring semester (Research paper for Optics)
