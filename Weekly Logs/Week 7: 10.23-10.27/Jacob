@@ -1,0 +1,17 @@
+Past Week:
+- Finished azimuth control loop (running off of input from magnetometer)
+
+- Presented Status Update Presentation 
+
+- Wrote Accelrometer Interface & Tilt Angle Calculation Code
+- - Speced out additonal parts to facilitate sponsor's desired sensor configuration.
+
+- Wrote Shutter Actuator Interface Code & Tested with Shutter Actuator
+- - Higher duty cycle needed than expected (40% vs 20%).
+
+- Worked with Tran to develop microcontroller-sensor interconnect board (PCB)
+- - Drew up preliminary schematics
+
+Next Week:
+- Interface with azinmuth rotary encoder & splice into azimuth control loop
+- Begin creating tilt control loop & (if parts arrive) perform functional tests
