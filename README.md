@@ -4,7 +4,7 @@ Team 72
 
 ECEN 403 - Section 902
 
-Sponsor: Christi Madsen
+Sponsor: Dr. Christi Madsen
 
 Members: Jacob Royal, Tran Nguyen, and Trevor Carr
 
