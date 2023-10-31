@@ -1,0 +1,10 @@
+Last Week:
+- Experimentally valided minimum PWM duty cycle for azimuth motor, tilt actuator, and shutter actuators (25%, 20%, & 40%, respectively)
+- Began creating post-processing algorithm for tilt angle accelerometer array based on paper provided by sponsor.
+- Created rotary encoder angle change logic; began integrating into azimuth control loop.
+- Conducted general code cleanup, reorganizaiton, and commenting for transparency.
+
+Next Week:
+- Physically mount azimuth rotary encoder to rig.
+- Solder components onto PCBs.
+- Control working on azimuth control and tilt control code.
