@@ -1,0 +1,9 @@
+This past week:
+Peer to peer connection between interface and backend code.
+Set up Astronomical Algorithms, Needs validation.
+Runtime and initialization commands ping the back end for graphs and data.
+
+Next week: 
+Completely validate Astronomical Algorithms.
+Pass Values between interface and back end for real time data visualization.
+Bluetooth channel creation. 
