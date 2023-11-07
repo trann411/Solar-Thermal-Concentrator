@@ -1,0 +1,10 @@
+Last Week:
+- Sourced parts for mounting rotary encoder to concentrator
+- Integrated additional accelerometers, accelerometer mux, & I2C active terminator into system
+- Began assembly of power distribution PCB
+- Investigated methods for 3D calibration of magnetometer
+
+Next Week:
+- Mount rotary encoder
+- Create magnetometer calibration function
+- Once here, begin assembly of microcontroller interconnect PCB & accelerometer array PCB
