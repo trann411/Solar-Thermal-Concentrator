@@ -1,0 +1,11 @@
+This past week: 
+Cleaned up Matlab code, eliminated most error in algorithm calculation.
+Tested Shutter setup.
+Updated Interface.
+Physical set up metal measurements 
+Looked into Bluetooth.
+
+This next week:
+Bluetooth architecture implementation.
+Rework shutters.
+Various code optimizations.
