@@ -1,0 +1,9 @@
+Last Week:
+- Created user serial interface for dynamically issuing movement commands, sampling sensor data
+- Worked on created rotary encoder mount, not finished yet
+- Found methodology for calibrating magnetometer; begin implementation of such
+
+This Week:
+- Begin investigating & implementing ESP32 bluetooth capabilities
+- Finish creating rotary encoder mount
+- Finish magnetometer calibration script
