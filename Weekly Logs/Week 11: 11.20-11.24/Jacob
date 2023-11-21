@@ -1,0 +1,10 @@
+Last Week:
+- Calibrated magnetometer
+- Validated functionality of accelerometer algorithm
+- Created prelimenary tilt feedback loop
+- Created bluetooth server instance; sucessfully transmitted temperature data
+
+This Week:
+- Debug tilt feedback loop
+- Add additional bluetooth functionality to transmit desried information
+- Add additinal bluetooth functionality to recceive desried user commands
