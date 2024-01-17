@@ -1,3 +1,8 @@
-This week: 
+Winter Break: 
+- Fixed drill hole placements for all of the PCBs
+- Ordered version 2 of the PCBs: main MCIB and side MCIB (Microcontroller Connect Interconnect Board)
+- Soldered the main MCIB for testing
 
 Incoming week:
+- Continue debugging the P&D board ideally with Dr. Lusher's assistance 
+- Test the MCIB with the correct ESP32
