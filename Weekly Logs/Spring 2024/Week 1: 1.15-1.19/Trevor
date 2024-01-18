@@ -1,0 +1,12 @@
+Winter Break:
+
+Started initial parallel pool functions to run real time display. (Mostly debugging, functions relativily simple)
+Achieved partial temperature sensor intergraton with ESP to MATLAB Interface for Visualization.
+Moved Project to new testing space and worked on physical hardware construction.
+
+Work for next week:
+
+Parallel pool function debugging. 
+Integration for ESP and Interface for positioning data.
+Work on Physical Set up.
+Various Visualization code for data collection.
